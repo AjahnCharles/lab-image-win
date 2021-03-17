@@ -27,11 +27,12 @@ _Pre-Requisites (must install on each PC):_
    _e.g. `npm i express body-parser express-handlebars sqlite sqlite3 firebase firebase-admin eslint prettier` etc_
 4. Update `...\node\etc\npmrc` with the correct paths for your lab PCs
    ```
-   prefix=C:\path\to\devtools\npm-global cache=C:\path\to\devtools\npm-cache
+   prefix=C:\path\to\devtools\npm-global
+   cache=C:\path\to\devtools\npm-cache
    ```
 5. Download & install [VSCode (ZIP)](https://code.visualstudio.com/download)
-6. Install extensions [(see suggestions)](./suggested-vscode-extensions.md)
-7. Configure settings [(see suggestions)](../devtools/vscode/data/user-data/)
+6. Install extensions [(see suggested extensions)](./suggested-vscode-extensions.md)
+7. Configure settings [(see suggested settings)](../devtools/vscode/data/user-data/User/settings.json)
 
 _Pre-Requisites (must install on each PC):_
 
